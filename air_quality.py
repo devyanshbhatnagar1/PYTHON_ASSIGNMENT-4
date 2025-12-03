@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------
 # Air Quality Data Visualizer - Unit 4 Assignment
-# Author: Kunal Lohia
+# Author: devyansh
 # Course: Problem Solving with Python (BCA AI & DS - Semester 1)
 # Faculty: Dr. Satinder Pal Singh
 # ---------------------------------------------------------------------
